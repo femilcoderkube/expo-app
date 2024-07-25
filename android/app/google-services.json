@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "723643581380",
+    "project_id": "expo-app-81f4d",
+    "storage_bucket": "expo-app-81f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723643581380:android:44022fe0681dddb548da91",
+        "android_client_info": {
+          "package_name": "com.femil.coderkube.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723643581380-ttef1vrglr90c9ct8fd75mpjpsnm8edl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.femil.coderkube.myapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "723643581380-ca9jumkcqvcmmlf0uqabhkls8r1vm3gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7OkPp6pQfXGFe4htKKz1hYtdfnxAR3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723643581380-ca9jumkcqvcmmlf0uqabhkls8r1vm3gl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "723643581380-57ghomb76acct4trb7kpmoqdfihfeb4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.femil.coderkube.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
